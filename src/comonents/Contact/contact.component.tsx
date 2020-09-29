@@ -57,26 +57,22 @@ export const Contact = () => {
                                             <Row>
                                                 <Col>
                                                     <h4 style={{ color: "#3b83b7" }}>Address:</h4>
-                                                    <p>102 Gagan Complex
-                                                    15/260 A-1 Civil Lines
-                                                    Kanpur Nagar, UP
-                                                    India</p>
+                                                    <p>15/198, Vikrmjeet Singh Marg, Civil Lines, Kanpur-208001, Court Compound Kanpur</p>
                                                 </Col>
                                             </Row>
 
                                             <Row>
                                                 <Col>
                                                     <h4 style={{ color: "#3b83b7" }}>Contact Numbers:</h4>
-                                                    <p>+91-9415051076</p>
-                                                    <p>+91-9336219585</p>
+                                                    <p>+91-512-2561839</p>
+                                                    <p>+91-9839036847</p>
                                                 </Col>
                                             </Row>
 
                                             <Row>
                                                 <Col>
                                                     <h4 style={{ color: "#3b83b7" }}>Email:</h4>
-                                                    <p>anuragkapooradvocate@gmail.com</p>
-                                                    <p>info@anuragkapooradvocate.com</p>
+                                                    <p>devendradwivedi.in@gmail.com</p>                                                    
                                                 </Col>
                                             </Row>
                                         </Col>
